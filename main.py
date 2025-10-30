@@ -1,0 +1,2 @@
+player = {"hand": [ ] }
+dealer = {"hand": [ ] }
